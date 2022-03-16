@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArekSzlapa
 - 👀 I’m interested in proggraming
-- 🌱 I’m currently learning CSS,HTML,JS 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CSS,HTML,JS,React
+- 💞️ I’m looking for my first job as a junior fronend dev.
 - 📫 How to reach me Arek.szlapa@gmail.com
 
 <!---
